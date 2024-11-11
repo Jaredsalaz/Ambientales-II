@@ -160,6 +160,7 @@ main .Administration {
 
 .contenido-textos h3 {
     margin-bottom: 15px;
+    font-size: 25px;
 }
 
 .contenido-textos h3 span {
@@ -171,6 +172,7 @@ main .Administration {
     padding: 2px;
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
     margin-right: 5px;
+    font-size: 25px;
 }
 
 .contenido-textos p {
